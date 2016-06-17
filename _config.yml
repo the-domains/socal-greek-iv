@@ -1,0 +1,28 @@
+name: Socal Greek IV
+favicon: null
+layout_spectrum: 0.5657087038271129
+typography_spectrum: 0.7211046821903437
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5859844372607768
+  lightness: 0.4768645011354238
+  saturation: 0.8102952542249113
+  rhythmicContrast: 0.6143728061579168
+purpose: []
