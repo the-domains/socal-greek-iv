@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
@@ -8,8 +8,8 @@ description: >-
   We are praying to see a Greek InterVarsity ministry on every campus that has a
   Greek System in Southern California. There is nothing more powerful than
   Greeks hosting faith conversations inside the fraternity and sorority houses. 
-datePublished: '2016-06-22T09:21:35.259Z'
-dateModified: '2016-06-22T09:21:18.222Z'
+datePublished: '2016-06-22T09:40:22.608Z'
+dateModified: '2016-06-22T09:23:09.023Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-22-this-is-a-title.md
@@ -17,7 +17,7 @@ authors: []
 publisher: null
 starred: false
 url: this-is-a-title/index.html
-_type: Article
+_type: WebPage
 
 ---
 We are praying to see a Greek InterVarsity ministry on every campus that has a Greek System in Southern California. There is nothing more powerful than Greeks hosting faith conversations inside the fraternity and sorority houses. 
